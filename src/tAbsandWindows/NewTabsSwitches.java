@@ -8,8 +8,8 @@ import org.testng.annotations.BeforeTest;
 public class NewTabsSwitches {
 	WebDriver driver;
   @Test
-  public void facebook() {  
-	  
+  public void techlearnlogin() {  
+	driver.get("https://www.techlearn.in/admin");
   }
   @BeforeTest
   public void beforeTest() {
