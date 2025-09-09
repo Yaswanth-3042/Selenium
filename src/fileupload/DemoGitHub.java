@@ -1,14 +1,14 @@
-package tAbsandWindows;
+package fileupload;
 
 import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeTest;
 
-public class NewTabsSwitches {
+public class DemoGitHub {
 	WebDriver driver;
   @Test
-  public void facebook() {  
+  public void facebook() {
 	  
   }
   @BeforeTest
