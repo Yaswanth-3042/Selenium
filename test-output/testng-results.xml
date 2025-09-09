@@ -2,20 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-05T13:25:49 IST" name="Default suite" finished-at="2025-09-05T13:25:58 IST" duration-ms="9016">
+  <suite started-at="2025-09-09T19:22:37 IST" name="Default suite" finished-at="2025-09-09T19:22:43 IST" duration-ms="6537">
     <groups>
     </groups>
-    <test started-at="2025-09-05T13:25:49 IST" name="Default test" finished-at="2025-09-05T13:25:58 IST" duration-ms="9016">
-      <class name="fileupload.UploadFile">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:fileupload.UploadFile@7eac9008]" started-at="2025-09-05T13:25:49 IST" name="beforeTest" finished-at="2025-09-05T13:25:52 IST" duration-ms="3178" status="PASS">
+    <test started-at="2025-09-09T19:22:37 IST" name="Default test" finished-at="2025-09-09T19:22:43 IST" duration-ms="6537">
+      <class name="tAbsandWindows.NewTabsSwitches">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tAbsandWindows.NewTabsSwitches@4116aac9]" started-at="2025-09-09T19:22:37 IST" name="beforeTest" finished-at="2025-09-09T19:22:38 IST" duration-ms="1454" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="fileattach()[pri:0, instance:fileupload.UploadFile@7eac9008]" started-at="2025-09-05T13:25:52 IST" name="fileattach" finished-at="2025-09-05T13:25:58 IST" duration-ms="5804" status="PASS">
+        <test-method signature="techlearnlogin()[pri:0, instance:tAbsandWindows.NewTabsSwitches@4116aac9]" started-at="2025-09-09T19:22:38 IST" name="techlearnlogin" finished-at="2025-09-09T19:22:43 IST" duration-ms="4831" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- fileattach -->
-      </class> <!-- fileupload.UploadFile -->
+        </test-method> <!-- techlearnlogin -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tAbsandWindows.NewTabsSwitches@4116aac9]" started-at="2025-09-09T19:22:43 IST" name="afterTest" finished-at="2025-09-09T19:22:43 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tAbsandWindows.NewTabsSwitches -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
