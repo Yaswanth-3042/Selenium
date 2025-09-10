@@ -3,6 +3,7 @@ package pagescrollDownandup;
 import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.AfterTest;
 
@@ -14,7 +15,7 @@ public class ScrollDownUp {
   }
   @BeforeTest
   public void beforeTest() {
-	  driver = new ChromeDriver();
+	  driver = new FirefoxDriver();
 	  driver.manage().window().maximize();
   }
 
